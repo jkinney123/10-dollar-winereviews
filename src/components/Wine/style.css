@@ -1,0 +1,26 @@
+.btn-container {
+  float: right;
+}
+
+.card-Style {
+  background: white;
+  border-radius: 4px;
+  position: relative;
+  margin: 50px 10px;
+  padding: 10px 10px 10px 10px;
+  box-shadow: 0px 3px 6px black, 0px 3px 6px black;
+  height: 600px;
+  width: 220px;
+}
+
+.card-img-top {
+  height: 240px;
+  width: 190px;
+  align-items: center;
+}
+
+@media (max-width: 767px) {
+  .btn-container {
+    margin-bottom: 15px;
+  }
+}

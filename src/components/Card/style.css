@@ -1,0 +1,9 @@
+.card-header {
+  padding: 0px;
+  color: black;
+}
+
+.card {
+  border-width: 5px;
+  border-color: black;
+}
