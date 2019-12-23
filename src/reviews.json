@@ -12,7 +12,6 @@
     "feel": "10 --- Lemonade-beer on a 95 degree day in the middle of Iowa.",
     "image": "./assets/images/HobNobRedBlend.jpg"
   },
-
   {
     "id": 2,
     "grape": "Red Blend",
@@ -26,7 +25,6 @@
     "feel": "8 --- Simple, fleeting, dry; a friendly clerk with a seedy past who gives you a smile with your change. ",
     "image": "./assets/images/RedBlendHermes.jpg"
   },
-
   {
     "id": 3,
     "grape": "Red Blend",
@@ -40,7 +38,6 @@
     "feel": "9 --- Rippling mirage hiding distant figures in a stark desert; lingering taste remindful of homesickness.   You have to drink the whole bottle to feel this way about Savor Collective. ",
     "image": "./assets/images/RedBlendSaviorCollective.jpg"
   },
-
   {
     "_id": 4,
     "grape": "Red Blend",
@@ -54,7 +51,6 @@
     "feel": "7 --- Clean and simple.  Your tongue will not recoil or rejoice.   Most of us are OK with that.  ",
     "image": "./assets/images/RedBlendMurphy-Goode.jpg"
   },
-
   {
     "id": 5,
     "grape": "Red Blend",
@@ -68,7 +64,6 @@
     "feel": "4 --- The tannins in this wine are like members of a cross country running team that stop in the woods to smoke a joint.  They just don't care. ",
     "image": "./assets/images/RedBlendBeringerSmooth.jpg"
   },
-
   {
     "id": 6,
     "grape": "Merlot",
@@ -82,7 +77,6 @@
     "feel": "3 --- Initial brightness fades quickly, till love, and fame, to nothing-ness do sink.",
     "image": "./assets/images/MerlotMenageATrois.jpg"
   },
-
   {
     "id": 7,
     "grape": "Zinfadel",
@@ -96,7 +90,6 @@
     "feel": "1 --- Tidal pool with concentrated sea salts; nine-volt battery you touch to your tongue.  ",
     "image": "./assets/images/ZinfadelMadDuck.jpg"
   },
-
   {
     "id": 8,
     "grape": "Zinfadel",
@@ -110,7 +103,6 @@
     "feel": "6 ---  Dry enough to make your lips numb; sensation of cocaine (so they say).",
     "image": "./assets/images/ZinfadelCloudBreak.jpg"
   },
-
   {
     "id": 9,
     "grape": "Zinfadel",
@@ -124,7 +116,6 @@
     "feel": "10 --- Soft, gentle, mildly tart, slightly magical.",
     "image": "./assets/images/ZinfadelImmortalZin.jpg"
   },
-
   {
     "id": 10,
     "grape": "Zinfadel",
@@ -138,7 +129,6 @@
     "feel": "9 --- Soft; nutty; handful of cashews from a gumball machine in an abandoned mall. ",
     "image": "./assets/images/ZinfadelCoyoteCreek.jpg"
   },
-
   {
     "id": 11,
     "grape": "Zinfadel",
@@ -152,7 +142,6 @@
     "feel": "10 --- Buy this wine for the feel alone.  It's not quite a liquid, solid or gas, at least not yet. ",
     "image": "./assets/images/ZinfadelGnarlyOldHead.jpg"
   },
-
   {
     "id": 12,
     "grape": "Zinfadel",
@@ -166,7 +155,6 @@
     "feel": "5 --- A bit gummy.  If you want to fake lung cancer, you will be able to spit blood after drinking.   If you already have lung cancer, no offense intended.",
     "image": "./assets/images/ZinfadelPrototype.jpg"
   },
-
   {
     "id": 13,
     "grape": "Zinfadel",
@@ -180,7 +168,6 @@
     "feel": "7 --- Like drinking from a pool in a pitch-dark cave when dying of thirst:  refreshing, tongue-tingling, unsettling. ",
     "image": "./assets/images/ZinfadelOakRidge.jpg"
   },
-
   {
     "id": 14,
     "grape": "Cabernet Sauvignon",
@@ -194,7 +181,6 @@
     "feel": "10 --- Melting chocolate.  This wine was born to be paired with dangerously under-cooked red meat. ",
     "image": "./assets/images/CabernetCarsonRidge.jpg"
   },
-
   {
     "id": 15,
     "grape": "Cabernet Sauvignon",
@@ -208,7 +194,6 @@
     "feel": "3 --- Soft, watery, mild; pair with chicken nuggets, Jell-O.  ",
     "image": "./assets/images/CabernetChateauStJean.jpg"
   },
-
   {
     "id": 16,
     "grape": "Cabernet Sauvignon",
@@ -222,7 +207,6 @@
     "feel": "5 --- Mild decongestant; numbing; sticky but not gooey. ",
     "image": "./assets/images/CabernetCarnivor.jpg"
   },
-
   {
     "id": 17,
     "grape": "Cabernet Sauvignon",
@@ -236,7 +220,6 @@
     "feel": "8 --- Something tells me this wine would improve with age; there's a dusty, wispy quality I recognize from stealing sips of expensive wine while busing tables as a teenager.",
     "image": "./assets/images/CabernetMurphyGoode.jpg"
   },
-
   {
     "id": 18,
     "grape": "Cabernet Sauvignon",
@@ -250,7 +233,6 @@
     "feel": "0 --- Disgusting",
     "image": "./assets/images/CabernetClosDuBois.jpg"
   },
-
   {
     "id": 19,
     "grape": "Pinot Noir",
@@ -264,7 +246,6 @@
     "feel": "5 --- Pop Rocks.  Pair with Leeann Chin's orange chicken.",
     "image": "./assets/images/PinotUnderwood.jpg"
   },
-
   {
     "id": 20,
     "grape": "Pinot Noir",
@@ -278,7 +259,6 @@
     "feel": "10 --- Crescendo and evanesce.  Don't pair it with anything, just pay attention.",
     "image": "./assets/images/PinotMarkWest.jpg"
   },
-
   {
     "id": 21,
     "grape": "Pinot Noir",
@@ -292,7 +272,6 @@
     "feel": "6 ---Burning sensation of water up the nose, but on a pleasant sunny day at the beach. ",
     "image": "./assets/images/PinoD'autrefois.jpg"
   },
-
   {
     "id": 22,
     "grape": "Pinot Noir",
@@ -306,7 +285,6 @@
     "feel": "2 ---A mild electric tingling.  Pair with nothing.  ",
     "image": "./assets/images/PinotLeGrand.jpg"
   },
-
   {
     "id": 23,
     "grape": "Merlot",
@@ -320,7 +298,6 @@
     "feel": "10 ---Friendly, sweet, and soft.  Evaporates like cotton candy.  ",
     "image": "./assets/images/MerlotRedDiamond.jpg"
   },
-
   {
     "id": 24,
     "grape": "Merlot",
@@ -334,7 +311,6 @@
     "feel": "1 ---Licking a rhinoceros.",
     "image": "./assets/images/MerlotRobertMondavi.jpg"
   },
-
   {
     "id": 25,
     "grape": "Merlot",
@@ -348,7 +324,6 @@
     "feel": "10 ---Wet and dry in the right proportions; simple; clean; just right. ",
     "image": "./assets/images/MerlotVistimar.jpg"
   },
-
   {
     "id": 26,
     "grape": "Merlot",
@@ -362,7 +337,6 @@
     "feel": "6 ---Pair with fruit salad for catalyst effect.  ",
     "image": "./assets/images/MerlotPortaReserva.jpg"
   },
-
   {
     "id": 27,
     "grape": "Merlot",
@@ -376,7 +350,6 @@
     "feel": "2 ---Hippo swimming in quicksand.  ",
     "image": "./assets/images/MerlotFiebrand.jpg"
   },
-
   {
     "id": 28,
     "grape": "Malbec",
@@ -390,7 +363,6 @@
     "feel": "5 --- Kissing your grandmother.  ",
     "image": "./assets/images/MalbecLote44.jpg"
   },
-
   {
     "id": 29,
     "grape": "Malbec",
@@ -404,7 +376,6 @@
     "feel": "2 --- You will spit red in the snow the next morning.  ",
     "image": "./assets/images/MalbecBlackBox.jpg"
   },
-
   {
     "id": 30,
     "grape": "Malbec",
@@ -418,7 +389,6 @@
     "feel": "8 --- How tart is too tart?  This is tarter than a gas station lemon pie, but it's almost as good.  Don't gargle with it. ",
     "image": "./assets/images/MalbecPuntoFinal.jpg"
   },
-
   {
     "id": 31,
     "grape": "Valpolicella",
@@ -432,7 +402,6 @@
     "feel": "10 --- Waves lapping at your toes  off the end of a dock.",
     "image": "./assets/images/ValpolicellaVillaMafei.jpg"
   },
-
   {
     "id": 32,
     "grape": "Petite Sirah",
@@ -446,7 +415,6 @@
     "feel": "9 --- Exactly like the taste.  Safe.  Soft.  The richest family in Lake Wobegon would serve this at a wedding.  But they might prefer the oak tree label. ",
     "image": "./assets/images/PetiteSarahOakGrove.jpg"
   },
-
   {
     "id": 33,
     "grape": "Montepuciamo",
@@ -460,7 +428,6 @@
     "feel": "1 --- A three-hour hike to the floor of the Grand Canyon and back without a drop of water.   True story, this wine brought it back. ",
     "image": "./assets/images/MontepulcianoMontupoli.jpg"
   },
-
   {
     "id": 34,
     "grape": "Sangiovese Style",
@@ -474,7 +441,6 @@
     "feel": "10 --- Slick, easy, quick, delicious.  Swallowing a minnow on a five dollar bet.  For you vegans, it was a rubber minnow. ",
     "image": "./assets/images/SangioveseRosso.jpg"
   },
-
   {
     "id": 35,
     "grape": "Petite Sirah",
@@ -488,7 +454,6 @@
     "feel": "5 --- A non-factor; neutral.   It doesn't get in the way of your enjoyment of the wine, and that's what's important. ",
     "image": "./assets/images/PetiteSarahConcannon.jpg"
   },
-
   {
     "id": 36,
     "grape": "Shiraz",

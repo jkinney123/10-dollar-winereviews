@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jkinney123.github.io/10dollarwine-reviews/",
-  "name": "10dollarwine-reviews",
+  "homepage": "https://jkinney123.github.io/10-dollar-winereviews/",
+  "name": "10-dollar-winereviews",
   "version": "0.1.0",
   "main": "server.js",
   "dependencies": {
