@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/10-dollar-winereviews/static/css/main.89d6bd7a.chunk.css",
-    "main.js": "/10-dollar-winereviews/static/js/main.5e984e0c.chunk.js",
-    "main.js.map": "/10-dollar-winereviews/static/js/main.5e984e0c.chunk.js.map",
+    "main.css": "/10-dollar-winereviews/static/css/main.018bf342.chunk.css",
+    "main.js": "/10-dollar-winereviews/static/js/main.ca1cdbdd.chunk.js",
+    "main.js.map": "/10-dollar-winereviews/static/js/main.ca1cdbdd.chunk.js.map",
     "runtime-main.js": "/10-dollar-winereviews/static/js/runtime-main.9abdf029.js",
     "runtime-main.js.map": "/10-dollar-winereviews/static/js/runtime-main.9abdf029.js.map",
     "static/js/2.b5bdbcae.chunk.js": "/10-dollar-winereviews/static/js/2.b5bdbcae.chunk.js",
     "static/js/2.b5bdbcae.chunk.js.map": "/10-dollar-winereviews/static/js/2.b5bdbcae.chunk.js.map",
     "index.html": "/10-dollar-winereviews/index.html",
-    "precache-manifest.2889efd2c3940388bf65803bab44ddd2.js": "/10-dollar-winereviews/precache-manifest.2889efd2c3940388bf65803bab44ddd2.js",
+    "precache-manifest.5818061f42477b809941963b353d32e7.js": "/10-dollar-winereviews/precache-manifest.5818061f42477b809941963b353d32e7.js",
     "service-worker.js": "/10-dollar-winereviews/service-worker.js",
-    "static/css/main.89d6bd7a.chunk.css.map": "/10-dollar-winereviews/static/css/main.89d6bd7a.chunk.css.map",
+    "static/css/main.018bf342.chunk.css.map": "/10-dollar-winereviews/static/css/main.018bf342.chunk.css.map",
     "static/js/2.b5bdbcae.chunk.js.LICENSE": "/10-dollar-winereviews/static/js/2.b5bdbcae.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.9abdf029.js",
     "static/js/2.b5bdbcae.chunk.js",
-    "static/css/main.89d6bd7a.chunk.css",
-    "static/js/main.5e984e0c.chunk.js"
+    "static/css/main.018bf342.chunk.css",
+    "static/js/main.ca1cdbdd.chunk.js"
   ]
 }

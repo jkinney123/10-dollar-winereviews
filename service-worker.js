@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/10-dollar-winereviews/precache-manifest.2889efd2c3940388bf65803bab44ddd2.js"
+  "/10-dollar-winereviews/precache-manifest.5818061f42477b809941963b353d32e7.js"
 );
 
 self.addEventListener('message', (event) => {
