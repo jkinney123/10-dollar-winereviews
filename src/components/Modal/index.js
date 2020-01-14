@@ -26,19 +26,19 @@ class WineModal extends React.Component {
           >
             <Modal.Body>
               <img
-                className="img-fluid float-left"
+                className="img-fluid"
                 src={this.props.image}
                 alt="Wine"
               />
               <div className="container">
                 <div className="row">
-                  <div className="col-md-4">
+                  <div className="col-md-4 p-2">
                     grape: <h5> {this.props.grape} </h5>
                   </div>
-                  <div className="col-md-4">
+                  <div className="col-md-4 p-2">
                     price: <h5> {this.props.price} </h5>
                   </div>
-                  <div className="col-md-4">
+                  <div className="col-md-4 p-2">
                     year: <h5> {this.props.year} </h5>
                   </div>
                   <div className="row">
@@ -58,7 +58,7 @@ class WineModal extends React.Component {
                       </p>
                     </div>
                   </div>
-                  <div className="row">
+                  <div className="row p-2">
                     <div className="col-md-12 m-2">
                       <h6>Tasting Notes: </h6>
                       <p className="m-2 ">
@@ -68,7 +68,7 @@ class WineModal extends React.Component {
                       </p>
                     </div>
                   </div>
-                  <div className="row">
+                  <div className="row p-2">
                     <div className="col-md-12 m-2">
                       <h6>Feel: </h6>
                       <p className="m-2 ">{this.props.feel}</p>
