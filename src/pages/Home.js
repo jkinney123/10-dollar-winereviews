@@ -98,7 +98,7 @@ class Home extends Component {
             <div className="row">
               <div className="d-inline-flex  flex-wrap flex-fill">
                 {this.state.wines.map(wine => (
-                  <div className="col-md-3">
+                  <div className="col-md-3 cardSty">
                     <Wine
                       key={wine.id}
                       // wineClick={this.wineClick}

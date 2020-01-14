@@ -38,7 +38,7 @@ class Nav extends Component {
         </Link>
         <button
           onClick={this.toggleNav}
-          className="navbar-toggler"
+          className="navbar-dark navbar-toggler"
           data-toggle="collapse"
           data-target="#navbarNav"
           aria-controls="navbarNav"
