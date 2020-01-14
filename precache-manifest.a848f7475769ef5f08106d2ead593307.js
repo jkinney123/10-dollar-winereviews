@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6283aef7f1840c75b847f859d048577",
+    "revision": "fa6d5b67b78a0da7edc605b4540510b2",
     "url": "/10-dollar-winereviews/index.html"
   },
   {
-    "revision": "36d398fda5135bb02d18",
+    "revision": "2fd91e13ebfed2f20314",
     "url": "/10-dollar-winereviews/static/css/main.018bf342.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/10-dollar-winereviews/static/js/2.b5bdbcae.chunk.js.LICENSE"
   },
   {
-    "revision": "36d398fda5135bb02d18",
-    "url": "/10-dollar-winereviews/static/js/main.ca1cdbdd.chunk.js"
+    "revision": "2fd91e13ebfed2f20314",
+    "url": "/10-dollar-winereviews/static/js/main.2bfd1a19.chunk.js"
   },
   {
     "revision": "83eac396cb4ef766c429",
