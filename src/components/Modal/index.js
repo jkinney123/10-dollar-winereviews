@@ -52,9 +52,9 @@ class WineModal extends React.Component {
 
                     <div className="col-md-6">
                       <p className="m-2">
-                        <h6>
+                        <h5>
                           <small>Wine Type: </small> {this.props.wineType}
-                        </h6>
+                        </h5>
                       </p>
                     </div>
                   </div>
@@ -64,8 +64,10 @@ class WineModal extends React.Component {
                       <p className="m-2 ">
                         {this.props.tastingNotes}
                         <br />
-                        grade: {this.props.grade}
                       </p>
+                      <h5>
+                        <small> grade:</small> <strong>{this.props.grade}</strong>
+                      </h5>
                     </div>
                   </div>
                   <div className="row p-2">

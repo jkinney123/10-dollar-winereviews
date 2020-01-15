@@ -10,7 +10,7 @@ const Wine = props => (
   <div className="card-Style">
     <img className="card-img-top" src={props.image} alt="Wine" />
     <div className="card-body">
-      <h4 className="card-title">{props.name}</h4>
+      <h5 className="card-title">{props.name}</h5>
       <p className="card-text">
         <h5>
           {" "}
@@ -22,7 +22,7 @@ const Wine = props => (
         </h5>
         <h5>
           {" "}
-          <small>origin:</small> {props.origin}
+          <small>grade:</small> {props.grade}
         </h5>
         <h5>
           <small> price:</small> {props.price}
