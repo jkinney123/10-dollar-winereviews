@@ -1,27 +1,4 @@
 
-@media (min-width: 360px) { 
-  .card-img-top {
-    height: 170px;
-    width: 130px;
-
-  }
-    
-    
-    .card-Style {
-      background: #fff;
-      border-radius: 4px;
-      position: relative;
-      margin: 5px;
-      padding: 10px;
-      box-shadow: 0 3px 6px #000, 0 3px 6px #000;
-      height: auto;
-      width: 145px;
-    }
-    
-  
-
-}
-
 
 
 
