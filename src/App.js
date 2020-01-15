@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Pinot from "./pages/Pinot";
 import Cab from "./pages/Cab";
+import "./style.css"
 
 // import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
