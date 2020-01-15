@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/10-dollar-winereviews/static/css/main.018bf342.chunk.css",
+    "main.css": "/10-dollar-winereviews/static/css/main.77fbc933.chunk.css",
     "main.js": "/10-dollar-winereviews/static/js/main.2dc19b1c.chunk.js",
     "main.js.map": "/10-dollar-winereviews/static/js/main.2dc19b1c.chunk.js.map",
     "runtime-main.js": "/10-dollar-winereviews/static/js/runtime-main.9abdf029.js",
@@ -8,15 +8,15 @@
     "static/js/2.b5bdbcae.chunk.js": "/10-dollar-winereviews/static/js/2.b5bdbcae.chunk.js",
     "static/js/2.b5bdbcae.chunk.js.map": "/10-dollar-winereviews/static/js/2.b5bdbcae.chunk.js.map",
     "index.html": "/10-dollar-winereviews/index.html",
-    "precache-manifest.dcacb11b8936606d73b3dc78b0db330d.js": "/10-dollar-winereviews/precache-manifest.dcacb11b8936606d73b3dc78b0db330d.js",
+    "precache-manifest.47a01dd8a852c62b7fd48f0e450f2a1a.js": "/10-dollar-winereviews/precache-manifest.47a01dd8a852c62b7fd48f0e450f2a1a.js",
     "service-worker.js": "/10-dollar-winereviews/service-worker.js",
-    "static/css/main.018bf342.chunk.css.map": "/10-dollar-winereviews/static/css/main.018bf342.chunk.css.map",
+    "static/css/main.77fbc933.chunk.css.map": "/10-dollar-winereviews/static/css/main.77fbc933.chunk.css.map",
     "static/js/2.b5bdbcae.chunk.js.LICENSE": "/10-dollar-winereviews/static/js/2.b5bdbcae.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.9abdf029.js",
     "static/js/2.b5bdbcae.chunk.js",
-    "static/css/main.018bf342.chunk.css",
+    "static/css/main.77fbc933.chunk.css",
     "static/js/main.2dc19b1c.chunk.js"
   ]
 }
