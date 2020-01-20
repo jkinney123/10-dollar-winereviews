@@ -8,7 +8,7 @@
     "year": "2012",
     "origin": "France",
     "tastingNotes": "Vicks Honey Lozenges with strong hints of Luden's Cherry Cough Drops; bread in a toaster two rooms away; Irish whiskey poured in a run-down Dublin pub.",
-    "grade": "7",
+    "rating": "7",
     "feel": "10 --- Lemonade-beer on a 95 degree day in the middle of Iowa.",
     "image": "./assets/images/HobNobRedBlend.jpg"
   },
@@ -20,8 +20,8 @@
     "name": "Hermes",
     "year": "No Info",
     "origin": "Greece",
-    "tastingNotes": "Cherry Kool-Aid; mothballs in a cedar closet; Coca Cola; grade school lunch box with Fritos and a peanut butter sandwich.  Perfect for a high school hockey parent parties.",
-    "grade": "7",
+    "tastingNotes": "Cherry Kool-Aid; mothballs in a cedar closet; Coca Cola; rating school lunch box with Fritos and a peanut butter sandwich.  Perfect for a high school hockey parent parties.",
+    "rating": "7",
     "feel": "8 --- Simple, fleeting, dry; a friendly clerk with a seedy past who gives you a smile with your change. ",
     "image": "./assets/images/RedBlendHermes.jpg"
   },
@@ -34,7 +34,7 @@
     "year": "2014",
     "origin": "Australia",
     "tastingNotes": "The fork, knife and spoon on the label reminds us this is table wine, and sets expectations.  Expectations were met.  It smells of Melborne on a rainy day. It tastes of Bondi Beach when a rogue wave crushes your face into the sand.  But it's palatable, decent, everyday wine for the masses -- mission accomplished for this collective. ",
-    "grade": "7",
+    "rating": "7",
     "feel": "9 --- Rippling mirage hiding distant figures in a stark desert; lingering taste remindful of homesickness.   You have to drink the whole bottle to feel this way about Savor Collective. ",
     "image": "./assets/images/RedBlendSaviorCollective.jpg"
   },
@@ -46,8 +46,8 @@
     "name": "Murphy-Goode Homefront Red",
     "year": "2012",
     "origin": "California",
-    "tastingNotes": "Notes of pancakes with extra butter and artificial maple syrup; gasoline from a distant multi-vehicle accident; food fight in a grade school cafeteria when beets are on the menu.  Somehow it works -- there's synergy here. ",
-    "grade": "8",
+    "tastingNotes": "Notes of pancakes with extra butter and artificial maple syrup; gasoline from a distant multi-vehicle accident; food fight in a rating school cafeteria when beets are on the menu.  Somehow it works -- there's synergy here. ",
+    "rating": "8",
     "feel": "7 --- Clean and simple.  Your tongue will not recoil or rejoice.   Most of us are OK with that.  ",
     "image": "./assets/images/RedBlendMurphy-Goode.jpg"
   },
@@ -60,7 +60,7 @@
     "year": "2010",
     "origin": "Napa, California",
     "tastingNotes": "This well-aged wine smells of red licorice, but tastes of cherry Kool-Aid you buy on the street from a small child who forgets to add sugar.  You smile and drink it anyway in penance for being an adult.  And you wish it were you peddling mismanaged Kool-Aid in a summer past.  ",
-    "grade": "5",
+    "rating": "5",
     "feel": "4 --- The tannins in this wine are like members of a cross country running team that stop in the woods to smoke a joint.  They just don't care. ",
     "image": "./assets/images/RedBlendBeringerSmooth.jpg"
   },
@@ -73,7 +73,7 @@
     "year": "2014",
     "origin": "California",
     "tastingNotes": "Tartness; soft leather jacket; perfume for non-bathers; dusty attic.  Notes of loneliness.  An ambitious name for a mediocre wine. ",
-    "grade": "4",
+    "rating": "4",
     "feel": "3 --- Initial brightness fades quickly, till love, and fame, to nothing-ness do sink.",
     "image": "./assets/images/MerlotMenageATrois.jpg"
   },
@@ -86,7 +86,7 @@
     "year": "2014",
     "origin": "Lodi, California",
     "tastingNotes": "Tart playdough; Mississippi river water you can't help but drink while swimming through barge waves.",
-    "grade": "3",
+    "rating": "3",
     "feel": "1 --- Tidal pool with concentrated sea salts; nine-volt battery you touch to your tongue.  ",
     "image": "./assets/images/ZinfadelMadDuck.jpg"
   },
@@ -99,7 +99,7 @@
     "year": "2013",
     "origin": "Parlier, California",
     "tastingNotes": "Incense used in Catholic mass on High Holy Days; first bite of a red apple; windshield wiper fluid; unharvested crabapple tree in late fall. ",
-    "grade": "7",
+    "rating": "7",
     "feel": "6 ---  Dry enough to make your lips numb; sensation of cocaine (so they say).",
     "image": "./assets/images/ZinfadelCloudBreak.jpg"
   },
@@ -112,7 +112,7 @@
     "year": "2013",
     "origin": "Lodi, California",
     "tastingNotes": "Valentine candy hearts; maraschino cherries; Milky Way bars; playing in ocean surf; lime after tequilla shot.  My wife thinks it tastes like fresh rubarb dipped in sugar on a summer day.  Never tried that nor will, but this is good Zin. ",
-    "grade": "10",
+    "rating": "10",
     "feel": "10 --- Soft, gentle, mildly tart, slightly magical.",
     "image": "./assets/images/ZinfadelImmortalZin.jpg"
   },
@@ -125,7 +125,7 @@
     "year": "2014",
     "origin": "Santa Rose, California",
     "tastingNotes": "This wine has notes of anxiety. The first pour smells like you just spilled a whole bottle of wine on the couch (happened once to this reviewer).  The first sip tastes like someone filled your mouth with Sweetarts when you were sleeping (don't do that to anyone, please).   But stick with it.  There's a delicious undercurrent of pistachios.  And deep in the bottle, you can almost hear a motherly voice telling you it's time for bed.",
-    "grade": "7",
+    "rating": "7",
     "feel": "9 --- Soft; nutty; handful of cashews from a gumball machine in an abandoned mall. ",
     "image": "./assets/images/ZinfadelCoyoteCreek.jpg"
   },
@@ -138,7 +138,7 @@
     "year": "2014",
     "origin": "Lodi, California",
     "tastingNotes": "Sitting in my mother's kitchen and looking out over the Mississippi River.  That's a memory, not a taste, but the cupboard behind me holds dog food, and my mom is making lasagna.  I can smell and taste rosemary in this wine.  And the dog has been swimming in the river.  It's all very faint, as this was long ago.   It's a lazy river, this wine, and nothing can stop it from reaching its destination. ",
-    "grade": "10",
+    "rating": "10",
     "feel": "10 --- Buy this wine for the feel alone.  It's not quite a liquid, solid or gas, at least not yet. ",
     "image": "./assets/images/ZinfadelGnarlyOldHead.jpg"
   },
@@ -150,8 +150,8 @@
     "name": "Prototype",
     "year": "2016",
     "origin": "Lodi, California",
-    "tastingNotes": "The first sip brought me back to second grade.  Those were the days when the house smelled of brussel sprouts and cigarettes.  The next sip reminded me of a funeral we held for a Gumby with a missing leg; I could smell the dark, rich earth of its backyard grave.  The third brought back my dog Spicy, who appeared at the funeral with a bloody  painted turtle in her mouth -- we buried that too.  A wine that evokes the smell of cigarettes, brussel sprouts and dead turtles is worth ten bucks. ",
-    "grade": "10",
+    "tastingNotes": "The first sip brought me back to second rating.  Those were the days when the house smelled of brussel sprouts and cigarettes.  The next sip reminded me of a funeral we held for a Gumby with a missing leg; I could smell the dark, rich earth of its backyard grave.  The third brought back my dog Spicy, who appeared at the funeral with a bloody  painted turtle in her mouth -- we buried that too.  A wine that evokes the smell of cigarettes, brussel sprouts and dead turtles is worth ten bucks. ",
+    "rating": "10",
     "feel": "5 --- A bit gummy.  If you want to fake lung cancer, you will be able to spit blood after drinking.   If you already have lung cancer, no offense intended.",
     "image": "./assets/images/ZinfadelPrototype.jpg"
   },
@@ -164,7 +164,7 @@
     "year": "2016",
     "origin": "Lodi, California",
     "tastingNotes": "Indoor hockey rink after Zamboni; unpeeled ripe banana; recently extinguished sparkler; night air in the suburbs. ",
-    "grade": "8",
+    "rating": "8",
     "feel": "7 --- Like drinking from a pool in a pitch-dark cave when dying of thirst:  refreshing, tongue-tingling, unsettling. ",
     "image": "./assets/images/ZinfadelOakRidge.jpg"
   },
@@ -177,7 +177,7 @@
     "year": "2015",
     "origin": "Paso Robles, California",
     "tastingNotes": "Rotting banana peel in spitting distance; wet cardboard from a broken case of beer; mismanaged hot tub; thick green grass under bare feet on a dark, humid night.  ",
-    "grade": "10",
+    "rating": "10",
     "feel": "10 --- Melting chocolate.  This wine was born to be paired with dangerously under-cooked red meat. ",
     "image": "./assets/images/CabernetCarsonRidge.jpg"
   },
@@ -190,7 +190,7 @@
     "year": "2012",
     "origin": "Sonoma, California",
     "tastingNotes": "Licorice; rubber; corn syrup; a sad, wistful hint of character; the most boring chocolate in the box.   ",
-    "grade": "3",
+    "rating": "3",
     "feel": "3 --- Soft, watery, mild; pair with chicken nuggets, Jell-O.  ",
     "image": "./assets/images/CabernetChateauStJean.jpg"
   },
@@ -203,7 +203,7 @@
     "year": "2015",
     "origin": "Modesto, California",
     "tastingNotes": "Red velvet cake; sewer gases; ashtrays; spoiled milk; college dorm rooms; birch tree cut with a chainsaw (a beautiful, sad smell).  God and the devil do battle in this bottle. ",
-    "grade": "Cant Rate",
+    "rating": "Cant Rate",
     "feel": "5 --- Mild decongestant; numbing; sticky but not gooey. ",
     "image": "./assets/images/CabernetCarnivor.jpg"
   },
@@ -216,7 +216,7 @@
     "year": "2015",
     "origin": "California",
     "tastingNotes": "A rotting, bitter, corpse-flower smell lingers when you open the bottle to let it breath; but pour a glass later and you have a very mild and gentle wine for a cab.   Like a shy friend with gas, this wine can be ridiculed but should not be rejected.  It's skunk liver cooked by a master chef, smothered in ketchup.  ",
-    "grade": "8",
+    "rating": "8",
     "feel": "8 --- Something tells me this wine would improve with age; there's a dusty, wispy quality I recognize from stealing sips of expensive wine while busing tables as a teenager.",
     "image": "./assets/images/CabernetMurphyGoode.jpg"
   },
@@ -229,7 +229,7 @@
     "year": "2015",
     "origin": "California",
     "tastingNotes": "Disgusting",
-    "grade": "0",
+    "rating": "0",
     "feel": "0 --- Disgusting",
     "image": "./assets/images/CabernetClosDuBois.jpg"
   },
@@ -242,7 +242,7 @@
     "year": "2015",
     "origin": "Oregon",
     "tastingNotes": "Peppermint sticks on a Christmas tree put out with the trash; model airplane fuel; nitrous oxide in a dentist's chair; sea breezes in Nassau, Bahamas, when slightly hungover. ",
-    "grade": "7",
+    "rating": "7",
     "feel": "5 --- Pop Rocks.  Pair with Leeann Chin's orange chicken.",
     "image": "./assets/images/PinotUnderwood.jpg"
   },
@@ -255,7 +255,7 @@
     "year": "2014",
     "origin": "Acampo, California",
     "tastingNotes": "Butter; wood stove; March winds; dead mouse; Lake Mille Lacs in summer three miles from shore.",
-    "grade": "9",
+    "rating": "9",
     "feel": "10 --- Crescendo and evanesce.  Don't pair it with anything, just pay attention.",
     "image": "./assets/images/PinotMarkWest.jpg"
   },
@@ -268,7 +268,7 @@
     "year": "2015",
     "origin": "Acampo, California",
     "tastingNotes": "Aluminum fishing boat stored upside-down in the woods when you first turn it over in the spring.  That's not a bad smell, but it's earthy, wet, and metallic.  Things scurry.  Wine needs this smell to be wine, and on the whole it helps more than it hurts. ",
-    "grade": "8",
+    "rating": "8",
     "feel": "6 ---Burning sensation of water up the nose, but on a pleasant sunny day at the beach. ",
     "image": "./assets/images/PinoD'autrefois.jpg"
   },
@@ -281,7 +281,7 @@
     "year": "2015",
     "origin": "France",
     "tastingNotes": "Shoe leather; skim milk; acid.  Mostly nothingness. The perfect wine for Nihilists.  Parmenides of Elea would say it does not exist.  When the cops pull you over after several bottles, and ask how much you have had to drink, you can honestly say nothing.  ",
-    "grade": "2",
+    "rating": "2",
     "feel": "2 ---A mild electric tingling.  Pair with nothing.  ",
     "image": "./assets/images/PinotLeGrand.jpg"
   },
@@ -294,7 +294,7 @@
     "year": "2015",
     "origin": "Washington State",
     "tastingNotes": "Bar-B-Que sauce; smoke; generic cherry candy; red sports car with a cracked cylinder head. Gulpable.  This is Oklahoma interstate highway wine; screw Washington State.  It's simple, good, a little too easy. ",
-    "grade": "8",
+    "rating": "8",
     "feel": "10 ---Friendly, sweet, and soft.  Evaporates like cotton candy.  ",
     "image": "./assets/images/MerlotRedDiamond.jpg"
   },
@@ -307,7 +307,7 @@
     "year": "2015",
     "origin": "California",
     "tastingNotes": "Grape Tootsie Pop, including the chewy center, floating in a public pool; hint of watered-down bone soup; new pack of playing cards; candy orange slice.  ",
-    "grade": "5",
+    "rating": "5",
     "feel": "1 ---Licking a rhinoceros.",
     "image": "./assets/images/MerlotRobertMondavi.jpg"
   },
@@ -320,7 +320,7 @@
     "year": "2015",
     "origin": "Maipo Valley Chile",
     "tastingNotes": "Iced donuts on a Sunday morning; Tang; horses being saddled in a paddock; storm with tornado warnings on the way; concrete sidewalks in a small town on a hot day.  ",
-    "grade": "10",
+    "rating": "10",
     "feel": "10 ---Wet and dry in the right proportions; simple; clean; just right. ",
     "image": "./assets/images/MerlotVistimar.jpg"
   },
@@ -333,7 +333,7 @@
     "year": "2015",
     "origin": "Maipo Valley Chile",
     "tastingNotes": "Overwhelming smell and taste of cantaloupe; subplot involving black pepper and that new-car smell.  Some might love, but it's a one-night-stand for this reviewer. ",
-    "grade": "2",
+    "rating": "2",
     "feel": "6 ---Pair with fruit salad for catalyst effect.  ",
     "image": "./assets/images/MerlotPortaReserva.jpg"
   },
@@ -346,7 +346,7 @@
     "year": "2015",
     "origin": "Parlier, California",
     "tastingNotes": "Underripe banana bread; new tar on the driveway; highlight was a dog hair in my glass. ",
-    "grade": "2",
+    "rating": "2",
     "feel": "2 ---Hippo swimming in quicksand.  ",
     "image": "./assets/images/MerlotFiebrand.jpg"
   },
@@ -359,7 +359,7 @@
     "year": "2015",
     "origin": "Mendoza, Argentina",
     "tastingNotes": "Fresh green peas; candy corn; gasoline, mushrooms in a forest; old tax returns. ",
-    "grade": "7",
+    "rating": "7",
     "feel": "5 --- Kissing your grandmother.  ",
     "image": "./assets/images/MalbecLote44.jpg"
   },
@@ -372,7 +372,7 @@
     "year": "2015",
     "origin": "Mendoza, Argentina",
     "tastingNotes": "Malted milk balls; fueling a float plane on Lake of the Woods; misplaced Halloween candy you find in August; old sweat socks; best of all boxed wines tasted (not many).",
-    "grade": "8",
+    "rating": "8",
     "feel": "2 --- You will spit red in the snow the next morning.  ",
     "image": "./assets/images/MalbecBlackBox.jpg"
   },
@@ -385,7 +385,7 @@
     "year": "2015",
     "origin": "Mendoza, Argentina",
     "tastingNotes": "Caramel apples made with tart green apples; unsalted blood; campfire ashes gone cold.  ",
-    "grade": "7",
+    "rating": "7",
     "feel": "8 --- How tart is too tart?  This is tarter than a gas station lemon pie, but it's almost as good.  Don't gargle with it. ",
     "image": "./assets/images/MalbecPuntoFinal.jpg"
   },
@@ -398,7 +398,7 @@
     "year": "2015",
     "origin": "Veneto, Italy",
     "tastingNotes": "Lobster; spaghetti sauce; Red Hots; model glue.  ",
-    "grade": "10",
+    "rating": "10",
     "feel": "10 --- Waves lapping at your toes  off the end of a dock.",
     "image": "./assets/images/ValpolicellaVillaMafei.jpg"
   },
@@ -411,7 +411,7 @@
     "year": "2014",
     "origin": "San Martin, California",
     "tastingNotes": "Nothing dreadful or disgusting comes to mind as you smell and taste this wine.   It's good.  You could accidently drink a gallon.  There's not much poetry, but this is the safest ten dollar wine in the world to bring to a party,  except for one thing.  The label is boring.  It's an oak tree.  You won't look cool drinking from the bottle next to a burning tire.  Change the name to Va Te Faire Foutre and put a skull and crossbones on the label.  It will fly off the shelves. ",
-    "grade": "9",
+    "rating": "9",
     "feel": "9 --- Exactly like the taste.  Safe.  Soft.  The richest family in Lake Wobegon would serve this at a wedding.  But they might prefer the oak tree label. ",
     "image": "./assets/images/PetiteSarahOakGrove.jpg"
   },
@@ -424,7 +424,7 @@
     "year": "2014",
     "origin": "Miglianico, Italy",
     "tastingNotes": "Generic sweetness under a thick bank of smog in a 1970s Midwestern industrial city on an overcast winter afternoon; thoughts of death; vague attraction.",
-    "grade": "1-7, depending on state of mind",
+    "rating": "1-7, depending on state of mind",
     "feel": "1 --- A three-hour hike to the floor of the Grand Canyon and back without a drop of water.   True story, this wine brought it back. ",
     "image": "./assets/images/MontepulcianoMontupoli.jpg"
   },
@@ -437,7 +437,7 @@
     "year": "2015",
     "origin": "Rufina, Italy",
     "tastingNotes": "Horseback riding on a mountainside in Montana, including horse poop, but you don't think about that when the horses race back to the barn at full gallop and you lose your fancy cowboy hat.  This may be the Pabst Blue Ribbon of Rufina, Italy, but it would hold its own against any style in Sonoma Valley.  ",
-    "grade": "10",
+    "rating": "10",
     "feel": "10 --- Slick, easy, quick, delicious.  Swallowing a minnow on a five dollar bet.  For you vegans, it was a rubber minnow. ",
     "image": "./assets/images/SangioveseRosso.jpg"
   },
@@ -450,7 +450,7 @@
     "year": "2014",
     "origin": "San Francisco, California",
     "tastingNotes": "Banana; pencil lead; sea breezes mixed with diesel fuel on a fishing trip; magic  marker; San Francisco itself.",
-    "grade": "8",
+    "rating": "8",
     "feel": "5 --- A non-factor; neutral.   It doesn't get in the way of your enjoyment of the wine, and that's what's important. ",
     "image": "./assets/images/PetiteSarahConcannon.jpg"
   },
@@ -463,7 +463,7 @@
     "year": "2016",
     "origin": "South Eastern Australia",
     "tastingNotes": "Wooden rowboat on a salt marsh; green bananas; aspirin; white pepper -- all smells on the wind, elusive as spotting a ghost that haunts other ghosts.  For those without a sixth sense, and in the King's English, this wine is mildly spicy and OK to slog.  ",
-    "grade": "7",
+    "rating": "7",
     "feel": "6 --- The tannins are as complex as cannabis.  But the wine hurts a little, like a bully who puts you in an armlock and laughs. ",
     "image": "./assets/images/ShirazJacobsCreek.jpg"
   }

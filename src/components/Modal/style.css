@@ -1,4 +1,21 @@
-img {
-  height: 400px;
-  width: 300px;
+.img-fluid {
+    max-width: fit-content;
+    height: 400px;
+}
+    
+
+.modal-header{
+    display: block;
+    padding: 1rem 1rem;
+    border-bottom: 1px solid #dee2e6;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+}
+
+.btn-dark {
+    color: #fff;
+    background-color: #343a40;
+    border-color: #343a40;
+    position: relative;
+    float: right;
 }

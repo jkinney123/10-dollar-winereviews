@@ -1,5 +1,5 @@
 import React from "react";
-import { Modal, Button, ButtonToolbar } from "react-bootstrap";
+import { Modal, ButtonToolbar, } from "react-bootstrap";
 import "./style.css";
 
 class WineModal extends React.Component {
@@ -14,7 +14,7 @@ class WineModal extends React.Component {
           <button
             onClick={() => this.setState({ lgShow: true })}
             type="button"
-            class="btn btn-dark"
+            className="btn btn-dark"
           >
             See Full Review
           </button>
@@ -24,7 +24,19 @@ class WineModal extends React.Component {
             onHide={() => this.setState({ lgShow: false })}
             aria-labelledby="example-modal-sizes-title-lg"
           >
+            <Modal.Header>
+              <button
+                onClick={() => this.setState({ lgShow: false })}
+                type="button"
+                className="btn btn-dark"
+              >
+                Close
+          </button>
+            </Modal.Header>
             <Modal.Body>
+
+
+
               <img
                 className="img-fluid"
                 src={this.props.image}
@@ -66,7 +78,7 @@ class WineModal extends React.Component {
                         <br />
                       </p>
                       <h5>
-                        <small> grade:</small> <strong>{this.props.grade}</strong>
+                        <small> rating:</small> <strong>{this.props.rating}</strong>
                       </h5>
                     </div>
                   </div>
@@ -79,6 +91,8 @@ class WineModal extends React.Component {
                 </div>
               </div>
             </Modal.Body>
+
+
           </Modal>
         </ButtonToolbar>
       </div>

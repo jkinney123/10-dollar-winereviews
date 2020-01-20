@@ -22,7 +22,7 @@ const Wine = props => (
         </h5>
         <h5>
           {" "}
-          <small>grade:</small> {props.grade}
+          <small>rating:</small> {props.rating}
         </h5>
         <h5>
           <small> price:</small> {props.price}
@@ -40,7 +40,7 @@ const Wine = props => (
         year={props.year}
         origin={props.origin}
         tastingNotes={props.tastingNotes}
-        grade={props.grade}
+        rating={props.rating}
         feel={props.feel}
         image={props.image}
       />

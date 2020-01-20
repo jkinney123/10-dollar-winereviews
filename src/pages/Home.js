@@ -4,7 +4,7 @@ import Card from "../components/Card";
 import Wine from "../components/Wine";
 import Footer from "../components/Footer";
 import wines from "../reviews.json";
-import WineModal from "../components/Modal";
+// import WineModal from "../components/Modal";
 import { Link } from "react-router-dom";
 import "./style.css";
 
@@ -72,23 +72,7 @@ class Home extends Component {
               </div>
               <br />
               <br />
-              <div className="row">
-                <div className="col-md-6">
-                  <h4 className="text-center border border-dark slide-in-left">
-                    {" "}
-                    <Link className="Pinot" to="/Pinot">
-                      What is Pinot Noir?
-                    </Link>
-                  </h4>
-                </div>
-                <div className="col-md-6">
-                  <h4 className="text-center border border-dark slide-in-right">
-                    <Link className="Cab" to="/Cabernet">
-                      What is Cabernet Sauvignon?
-                    </Link>{" "}
-                  </h4>
-                </div>
-              </div>
+
             </Jumbotron>
           </div>
         </div>
@@ -110,7 +94,7 @@ class Home extends Component {
                       year={wine.year}
                       origin={wine.origin}
                       tastingNotes={wine.tastingNotes}
-                      grade={wine.grade}
+                      rating={wine.rating}
                       feel={wine.feel}
                       image={wine.image}
                     />

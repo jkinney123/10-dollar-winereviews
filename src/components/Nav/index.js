@@ -78,6 +78,19 @@ class Nav extends Component {
                 About Me
               </Link>
             </li>
+            <li className="nav-item">
+              <Link
+                onClick={this.toggleNav}
+                className={
+                  window.location.pathname === "/aboutWines"
+                    ? "nav-link active text-white"
+                    : "nav-link text-white"
+                }
+                to="/aboutWines"
+              >
+                Learn about Wines
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
