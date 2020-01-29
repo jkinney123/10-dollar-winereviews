@@ -5,7 +5,7 @@ import Wine from "../components/Wine";
 import Footer from "../components/Footer";
 import wines from "../reviews.json";
 // import WineModal from "../components/Modal";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "./style.css";
 
 // import API from "../utils/API";
@@ -13,9 +13,13 @@ import "./style.css";
 // import { List } from "../components/List";
 
 class Home extends Component {
-  state = {
-    wines
-  };
+  constructor(props) {
+    super(props)
+    this.sortByRating = this.sortByRating.bind(this)
+    this.state = {
+      wines: [],
+    };
+  }
 
   // openModal = () => {
   //   this.setState({
@@ -43,9 +47,31 @@ class Home extends Component {
   //   }
   // };
 
-  // componentDidMount() {
-  //   this.getSavedWines();
-  // }
+  componentDidMount() {
+    this.setState({
+      wines: wines,
+      isHighestFirst: true
+    })
+  }
+
+  sortByRating() {
+    const { wines } = this.state
+    let newWines = wines
+    wines.sort((a, b) => b.rating - a.rating)
+
+    this.setState({
+
+      wines: newWines
+    })
+    console.log(wines);
+    console.log(newWines);
+  }
+
+
+
+
+
+
 
   // getSavedWines = () => {
   //   API.getSavedWines()
@@ -58,6 +84,7 @@ class Home extends Component {
   // };
 
   render() {
+
     return (
       <div className="container">
         <div className="row">
@@ -79,12 +106,14 @@ class Home extends Component {
         <div className="container">
           <Card title="Reviews">
             {/* <List> */}
+            <div className="row p-4">
+              <button onClick={this.sortByRating} className="text-center">Order by Rating</button>
+            </div>
             <div className="row">
               <div className="d-inline-flex  flex-wrap flex-fill">
                 {this.state.wines.map(wine => (
                   <div className="col-md-3 cardSty">
-                    <Wine
-                      key={wine.id}
+                    <Wine key={wine.id}
                       // wineClick={this.wineClick}
                       // id={wine.id}
                       grape={wine.grape}
