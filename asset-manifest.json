@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/10-dollar-winereviews/static/css/main.5ef5423c.chunk.css",
-    "main.js": "/10-dollar-winereviews/static/js/main.5cb12df1.chunk.js",
-    "main.js.map": "/10-dollar-winereviews/static/js/main.5cb12df1.chunk.js.map",
+    "main.css": "/10-dollar-winereviews/static/css/main.90998e8a.chunk.css",
+    "main.js": "/10-dollar-winereviews/static/js/main.cc6488b2.chunk.js",
+    "main.js.map": "/10-dollar-winereviews/static/js/main.cc6488b2.chunk.js.map",
     "runtime-main.js": "/10-dollar-winereviews/static/js/runtime-main.9abdf029.js",
     "runtime-main.js.map": "/10-dollar-winereviews/static/js/runtime-main.9abdf029.js.map",
-    "static/js/2.19e18762.chunk.js": "/10-dollar-winereviews/static/js/2.19e18762.chunk.js",
-    "static/js/2.19e18762.chunk.js.map": "/10-dollar-winereviews/static/js/2.19e18762.chunk.js.map",
+    "static/js/2.9db7e8d7.chunk.js": "/10-dollar-winereviews/static/js/2.9db7e8d7.chunk.js",
+    "static/js/2.9db7e8d7.chunk.js.map": "/10-dollar-winereviews/static/js/2.9db7e8d7.chunk.js.map",
     "index.html": "/10-dollar-winereviews/index.html",
-    "precache-manifest.3c212af3cc38520c506b9c71669c1f70.js": "/10-dollar-winereviews/precache-manifest.3c212af3cc38520c506b9c71669c1f70.js",
+    "precache-manifest.c55ce57e646754a3a6386c6dee9e8e87.js": "/10-dollar-winereviews/precache-manifest.c55ce57e646754a3a6386c6dee9e8e87.js",
     "service-worker.js": "/10-dollar-winereviews/service-worker.js",
-    "static/css/main.5ef5423c.chunk.css.map": "/10-dollar-winereviews/static/css/main.5ef5423c.chunk.css.map",
-    "static/js/2.19e18762.chunk.js.LICENSE": "/10-dollar-winereviews/static/js/2.19e18762.chunk.js.LICENSE"
+    "static/css/main.90998e8a.chunk.css.map": "/10-dollar-winereviews/static/css/main.90998e8a.chunk.css.map",
+    "static/js/2.9db7e8d7.chunk.js.LICENSE": "/10-dollar-winereviews/static/js/2.9db7e8d7.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.9abdf029.js",
-    "static/js/2.19e18762.chunk.js",
-    "static/css/main.5ef5423c.chunk.css",
-    "static/js/main.5cb12df1.chunk.js"
+    "static/js/2.9db7e8d7.chunk.js",
+    "static/css/main.90998e8a.chunk.css",
+    "static/js/main.cc6488b2.chunk.js"
   ]
 }
