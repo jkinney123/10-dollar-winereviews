@@ -12,12 +12,18 @@ import "./style.css";
 // import { Col, Row, Container } from "../components/Grid";
 // import { List } from "../components/List";
 
+
+
+
+
 class Home extends Component {
   constructor(props) {
     super(props)
-    this.sortByRating = this.sortByRating.bind(this)
+    this.sortByRating = this.sortByRating.bind(this);
+    // this.updateSearch = this.updateSearch.bind(this);
     this.state = {
       wines: [],
+      term: ''
     };
   }
 
@@ -50,7 +56,7 @@ class Home extends Component {
   componentDidMount() {
     this.setState({
       wines: wines,
-      isHighestFirst: true
+
     })
   }
 
@@ -68,6 +74,12 @@ class Home extends Component {
   }
 
 
+  // updateSearch(event) {
+  //   this.setState({
+  //     term: event.target.value
+  //   });
+  // }
+
 
 
 
@@ -84,6 +96,13 @@ class Home extends Component {
   // };
 
   render() {
+
+    // function searchingFor(term) {
+    //   return function (x) {
+    //     return x.first.toLowerCase().includes(term.toLowerCase()) || !term;
+    //   }
+    // }
+
 
     return (
       <div className="container">
@@ -107,8 +126,16 @@ class Home extends Component {
           <Card title="Reviews">
             {/* <List> */}
             <div className="row p-4">
-              <button onClick={this.sortByRating} className="text-center">Order by Rating</button>
+              <div className="col-md-6 d-flex justify-content-end">
+                <button onClick={this.sortByRating} className="text-center">Order by Rating</button>
+              </div>
+              <div className="col-md-6">
+                <form>
+                  <input type="text" value={this.state.term} onChange={this.updateSearch} />
+                </form>
+              </div>
             </div>
+
             <div className="row">
               <div className="d-inline-flex  flex-wrap flex-fill">
                 {this.state.wines.map(wine => (
