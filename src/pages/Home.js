@@ -1,9 +1,10 @@
 import React, { Component } from "react";
 import Jumbotron from "../components/Jumbotron";
 import Card from "../components/Card";
-import Wine from "../components/Wine";
+// import Wine from "../components/Wine";
 import Footer from "../components/Footer";
 import wines from "../reviews.json";
+import WineModal from "../components/Modal";
 // import WineModal from "../components/Modal";
 // import { Link } from "react-router-dom";
 import "./style.css";
@@ -17,8 +18,8 @@ import "./style.css";
 
 
 class Home extends Component {
-  constructor(props) {
-    super(props)
+  constructor(wine) {
+    super(wine)
     this.sortByRating = this.sortByRating.bind(this);
     // this.updateSearch = this.updateSearch.bind(this);
     this.state = {
@@ -27,17 +28,67 @@ class Home extends Component {
     };
   }
 
-  // openModal = () => {
-  //   this.setState({
-  //     modalIsOpen: true
-  //   });
-  // };
 
-  // closeModal = () => {
-  //   this.setState({
-  //     modalIsOpen: false
-  //   });
-  // };
+
+
+  renderWine = wine => {
+
+    return (
+      <div className="col-md-3 cardSty">
+        <div className="card-Style">
+          <img className="card-img-top" src={wine.image} alt="Wine" />
+          <div className="card-body">
+            <h5 className="card-title">{wine.name}</h5>
+            <p className="card-text">
+              <h5>
+                {" "}
+                <small>grape:</small> {wine.grape}
+              </h5>
+              <h5>
+                {" "}
+                <small>year:</small> {wine.year}
+              </h5>
+              <h5>
+                {" "}
+                <small>rating:</small> {wine.rating}
+              </h5>
+              <h5>
+                <small> price:</small> {wine.price}
+              </h5>
+            </p>
+
+            <WineModal
+              key={wine.id}
+              // wineClick={this.wineClick}
+              id={wine.id}
+              grape={wine.grape}
+              wineType={wine.wineType}
+              price={wine.price}
+              name={wine.name}
+              year={wine.year}
+              origin={wine.origin}
+              tastingNotes={wine.tastingNotes}
+              rating={wine.rating}
+              feel={wine.feel}
+              image={wine.image}
+            />
+          </div>
+        </div>
+      </div>
+
+    );
+  }
+
+
+
+
+
+  onchange = e => {
+    this.setState({ term: e.target.value });
+  };
+
+
+
 
   // wineClick = id => {
   //   const wines = this.state.wines;
@@ -55,10 +106,10 @@ class Home extends Component {
 
   componentDidMount() {
     this.setState({
-      wines: wines,
+      wines: wines
 
     })
-  }
+  };
 
   sortByRating() {
     const { wines } = this.state
@@ -74,11 +125,7 @@ class Home extends Component {
   }
 
 
-  // updateSearch(event) {
-  //   this.setState({
-  //     term: event.target.value
-  //   });
-  // }
+
 
 
 
@@ -97,11 +144,11 @@ class Home extends Component {
 
   render() {
 
-    // function searchingFor(term) {
-    //   return function (x) {
-    //     return x.first.toLowerCase().includes(term.toLowerCase()) || !term;
-    //   }
-    // }
+    const { term } = this.state;
+    const filteredWines = wines.filter(wine => {
+      return wine.name.toLowerCase().indexOf(term.toLowerCase()) !== -1;
+    });
+
 
 
     return (
@@ -131,31 +178,18 @@ class Home extends Component {
               </div>
               <div className="col-md-6">
                 <form>
-                  <input type="text" value={this.state.term} onChange={this.updateSearch} />
+                  <input type="text" icon="search" placeholder="Search for a Wine.." onChange={this.onchange} />
                 </form>
               </div>
             </div>
 
             <div className="row">
               <div className="d-inline-flex  flex-wrap flex-fill">
-                {this.state.wines.map(wine => (
-                  <div className="col-md-3 cardSty">
-                    <Wine key={wine.id}
-                      // wineClick={this.wineClick}
-                      // id={wine.id}
-                      grape={wine.grape}
-                      wineType={wine.wineType}
-                      price={wine.price}
-                      name={wine.name}
-                      year={wine.year}
-                      origin={wine.origin}
-                      tastingNotes={wine.tastingNotes}
-                      rating={wine.rating}
-                      feel={wine.feel}
-                      image={wine.image}
-                    />
-                  </div>
-                ))}
+                {filteredWines.map(wine => {
+
+                  return this.renderWine(wine);
+
+                })}
               </div>
             </div>
 
