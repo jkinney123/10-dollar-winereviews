@@ -32,7 +32,7 @@ class Nav extends Component {
 
   render() {
     return (
-      <nav className="navbar navbar-expand-lg  bg-dark mb-2 p-3">
+      <nav className="navbar navbar-expand-lg  mb-2 p-3">
         <Link className="navbar-brand text-white" to="/">
           $10 Wine Reviews
         </Link>
@@ -65,7 +65,7 @@ class Nav extends Component {
                 Home
               </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link
                 onClick={this.toggleNav}
                 className={
@@ -77,7 +77,7 @@ class Nav extends Component {
               >
                 About Me
               </Link>
-            </li>
+            </li> */}
             <li className="nav-item">
               <Link
                 onClick={this.toggleNav}
